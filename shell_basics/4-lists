@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -a cd - ls -l cd ../boot ls -l
+ls -a . ../
+ls -l /boot
